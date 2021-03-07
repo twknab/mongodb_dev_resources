@@ -1,6 +1,14 @@
 # Install Mongo DB On MacOS Big Sur
 
-[TOC]
+- [Install Mongo DB On MacOS Big Sur](#install-mongo-db-on-macos-big-sur)
+  - [Creating Data Folder](#creating-data-folder)
+  - [For Old OS Versions (Before Catalina)](#for-old-os-versions-before-catalina)
+    - [Adjust permission](#adjust-permission)
+  - [For Newer OS Versions (Catalina / Big Sur)](#for-newer-os-versions-catalina--big-sur)
+    - [Adjust Permission](#adjust-permission-1)
+  - [Installing MongoDB](#installing-mongodb)
+  - [Managing MongoDB Service](#managing-mongodb-service)
+  - [Creating Aliases](#creating-aliases)
 
 
 
