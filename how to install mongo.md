@@ -1,4 +1,4 @@
-# Install Mongo DB On MacOS Big Sur
+# Install Mongo DB On MacOS Big Sur using Homebrew
 
 - [Install Mongo DB On MacOS Big Sur](#install-mongo-db-on-macos-big-sur)
   - [Creating Data Folder](#creating-data-folder)
